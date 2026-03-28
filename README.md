@@ -13,10 +13,10 @@ Projeto simples para praticar Git e GitHub.
 
 <img width="631" height="146" alt="1" src="https://github.com/user-attachments/assets/4b78508f-7f05-4a36-9cc1-a8fe2c3f9d75" />
 <img width="573" height="86" alt="2" src="https://github.com/user-attachments/assets/e3a39e0f-9104-4118-8f2c-21814103463e" />
-<img width="575" height="173" alt="3" src=<img width="538" height="63" alt="4" src="https://github.com/user-attachments/assets/e1058e9d-97ff-4b44-81d2-b52afcd5230f" />
-"https://github.com/user-attachments/assets/4fc58820-b809-408f-b196-ed7f55ab0ac8" />
-<img width="713" height="180" alt="5" src="https://github.com/user-attachments/assets/ce6d463d-3235-4d2c-950f-7132ce7ee42a" />
-<img width="1352" height="611" alt="6" src="https://github.com/user-attachments/assets/3ba4e05e-82c3-4223-9ecb-09b458fed1e3" />
-<img width="827" height="387" alt="7" src="https://github.com/user-attachments/assets/34357430-cd3b-4148-97d3-c2896bc7a5c2" />
-<img width="620" height="184" alt="8" src="https://github.com/user-attachments/assets/67c818ea-9406-48dc-bf82-bafc7cd911a8" />
-<img width="549" height="124" alt="9" src="https://github.com/user-attachments/assets/9151e2fd-0739-44b3-a480-c8fc305e0b6c" />
+<img width="575" height="173" alt="3" src="https://github.com/user-attachments/assets/9749ce25-1e68-4b45-b98d-730abfef80e5" />
+<img width="538" height="63" alt="4" src="https://github.com/user-attachments/assets/d33a2432-7689-4489-8169-f25fd7b8b8ab" />
+<img width="713" height="180" alt="5" src="https://github.com/user-attachments/assets/c7ce9bc1-1c79-4371-b7b9-0bcbe83ab285" />
+<img width="1352" height="611" alt="6" src="https://github.com/user-attachments/assets/d61b32cf-e47b-4acc-ba06-c62959f961f9" />
+<img width="827" height="387" alt="7" src="https://github.com/user-attachments/assets/fe445de8-9ba6-48fc-a313-46b40d19f35a" />
+<img width="620" height="184" alt="8" src="https://github.com/user-attachments/assets/141f8f39-4495-4e58-a2dc-fedff0ed2355" />
+<img width="549" height="124" alt="9" src="https://github.com/user-attachments/assets/b7a2ff4c-ce94-49e3-a321-0a8e6405395a" />
